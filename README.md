@@ -34,7 +34,7 @@ See the snippet in examples/RawPoultrySampleDataset.md, or the raw data in examp
 
 This appears to be domestic data only, with no inspection data.  But we need to examine the APIs to verify.
 
-I have obtained a key for these APIs, it was easy to obtain.  We should have each person get their own key.  I I have verified that the REST and GraphQL APIs both work, but have only taken a very quick look at the data, it does not seem applicable upon cursory inspection.
+I have obtained a key for these APIs, it was easy to obtain.  We should have each person get their own key.  I have verified that the REST and GraphQL APIs both work, but have only taken a very quick look at the data, it does not seem applicable upon cursory inspection.
 
 ### Description of the API
 
