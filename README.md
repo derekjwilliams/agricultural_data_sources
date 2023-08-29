@@ -12,7 +12,7 @@ There may be cases where the data source is not directly applicable, for example
 [https://gain.fas.usda.gov/#/](https://gain.fas.usda.gov/#/)
 
 
-This is primarily human readable text reports, so it is  difficult to use as a primary data source source.  This may be a good source for any public alerts that are issued; using AI to parse these should be possible.
+This is primarily human readable text reports, so it is  difficult to use as a primary data source.  This may be a good source for any public alerts that are issued; using AI to parse these should be possible.
 
 Note: The search functionality works in the above site.
 
