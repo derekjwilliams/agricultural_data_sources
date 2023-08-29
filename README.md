@@ -9,7 +9,8 @@ There may be cases where the data source is not directly applicable, for example
 
 ## GAIN Reports
 
-https://gain.fas.usda.gov/#/
+[https://gain.fas.usda.gov/#/](https://gain.fas.usda.gov/#/)
+
 
 This is primarily human readable text reports, so it is  difficult to use as a primary data source source.  This may be a good source for any public alerts that are issued; using AI to parse these should be possible.
 
@@ -18,7 +19,7 @@ Note: The search functionality works in the above site.
 ## FSIS Data
 The FSIS sites contains inpsection data, but seems to be domestic only.
 
-https://www.fsis.usda.gov/science-data/data-sets-visualizations/laboratory-sampling-data
+[https://www.fsis.usda.gov/science-data/data-sets-visualizations/laboratory-sampling-data](https://www.fsis.usda.gov/science-data/data-sets-visualizations/laboratory-sampling-data)
 
 See the snippet in examples/RawPoultrySampleDataset.md, or the raw data in examples/RawPoultrySampleDataset.csv
 
@@ -29,7 +30,7 @@ See the snippet in examples/RawPoultrySampleDataset.md, or the raw data in examp
 
 ## Economic Research Service Data APIs
 
-https://www.ers.usda.gov/developer/data-apis/
+[https://www.ers.usda.gov/developer/data-apis/](https://www.ers.usda.gov/developer/data-apis/)
 
 This appears to be domestic data only, with no inspection data.  But we need to examine the APIs to verify.
 
