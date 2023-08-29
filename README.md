@@ -3,7 +3,7 @@
 ## Overview
 
 
-The list of agricultural data sources is focused on sources that contain data about imported food inspection; primarily animals and animal products.  
+The list of agricultural data sources is focused on those that contain data about imported food inspection; primarily animals and animal products.  
 
 There may be cases where the data source is not directly applicable, for example domestic meat inspection.  These are included for possible future use or to find similar data sources in the future that better fit our needs.
 
