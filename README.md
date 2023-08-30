@@ -51,5 +51,10 @@ You may use the ARMS Data API to develop a service to search, display, analyze, 
 Users of the ARMS data API are required to sign up for an API key using the form provided by api.data.gov below, a free API management service for Federal agencies. A valid email address is required to obtain a key. Once users have completed the signup requirements, the API key will be automatically sent to the user-provided email address. API keys provide a means to notify users of changes in the APIs.
 
 
+#### Links to Relevant Articles and Papers
+
+(Salmonella testing can be a slow process. These researchers want to change that - Aug 29, 2023 - Eric Schmid )[https://www.marketplace.org/2023/08/29/salmonella-testing-can-be-a-slow-process-these-researchers-want-to-change-that/#]
+
+
 
 
