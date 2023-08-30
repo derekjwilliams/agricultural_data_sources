@@ -53,7 +53,7 @@ Users of the ARMS data API are required to sign up for an API key using the for
 
 ## Links to Relevant Articles and Papers
 
-(Salmonella testing can be a slow process. These researchers want to change that - Aug 29, 2023 - Eric Schmid )[https://www.marketplace.org/2023/08/29/salmonella-testing-can-be-a-slow-process-these-researchers-want-to-change-that/#]
+[Salmonella testing can be a slow process. These researchers want to change that - Aug 29, 2023 - Eric Schmid](https://www.marketplace.org/2023/08/29/salmonella-testing-can-be-a-slow-process-these-researchers-want-to-change-that/#)
 
 
 
